@@ -1,0 +1,10 @@
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\bin\Debug\petSim.exe.config
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\bin\Debug\petSim.exe
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\bin\Debug\petSim.pdb
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\obj\Debug\petSim.csproj.AssemblyReference.cache
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\obj\Debug\petSim.Form1.resources
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\obj\Debug\petSim.Properties.Resources.resources
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\obj\Debug\petSim.csproj.GenerateResource.cache
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\obj\Debug\petSim.csproj.CoreCompileInputs.cache
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\obj\Debug\petSim.exe
+C:\Users\dlfnl\OneDrive\Desktop\PetSim\petSim\petSim\obj\Debug\petSim.pdb
